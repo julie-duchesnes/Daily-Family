@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	margin: 0px;
+}
+h1, h2 {
+	font-family: 'Rockwell', sans-serif;
+	font-weight: bold;
+}
+h2 {
+	font-family: 'Roboto', serif;
+	font-weight: lighter;
+}
+a {
+	text-decoration: none;
+}
